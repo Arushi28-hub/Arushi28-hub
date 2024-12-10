@@ -1,13 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m Arushi Bakshi @Arushi28-hub<br>🔭 I’m currently a First-year B-Tech Student at VIT Bhopal.<br>🌱 Pursuing Computer Science Engineering<br>🧑‍💻 LinkedIn - https://www.linkedin.com/in/arushi-bakshi-015975330/<br>🤝 Let's Connect !
-<div style="display: flex; align-items: center; justify-content: space-between;">
-<div style="margin-top: -20px">
-    <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="Computer Work" width="200" align="right" />
-</div>
-</div>
-</div>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arushi-bakshi-015975330/) 
