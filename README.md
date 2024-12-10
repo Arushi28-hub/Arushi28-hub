@@ -1,5 +1,12 @@
 # 💫 About Me:
 👋 Hi, I’m Arushi Bakshi @Arushi28-hub<br>🔭 I’m currently a First-year B-Tech Student at VIT Bhopal.<br>🌱 Pursuing Computer Science Engineering<br>🧑‍💻 LinkedIn - https://www.linkedin.com/in/arushi-bakshi-015975330/<br>🤝 Let's Connect !
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="margin-top: -20px">
+    <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="Computer Work" width="200" align="right" />
+</div>
+</div>
+</div>
+
 
 
 ## 🌐 Socials:
@@ -20,8 +27,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arushi28-hub&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</br>
-<img src="https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif" alt="Creative Animation" width="400" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif" alt="Creative Animation" width="100" />
 
 
 ---
