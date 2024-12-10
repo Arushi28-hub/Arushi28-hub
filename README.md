@@ -20,7 +20,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arushi28-hub&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</br>
+<img src="https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif" alt="Creative Animation" width="400" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arushi28-hub&icon=9&color=0)](https://visitcount.itsvg.in)
