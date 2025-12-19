@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&&letterSpacing=0.2rem&duration=2000&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+👋+;I+am+Arushi+!+Welcome+to+my+Github....)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&&letterSpacing=0.2rem&duration=2000&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+🌻+;I+am+Arushi.++Welcome+to+my+Github....)
 💫 About Me:
 🔭 I’m currently a Second-Year B-Tech Student at VIT Bhopal.<br>🌱 Pursuing Computer Science Engineering<br>🧑‍💻 LinkedIn - https://www.linkedin.com/in/arushi-bakshi-015975330/<br>🤝 Let's Connect !
 
