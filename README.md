@@ -1,8 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=2400&pause=600&color=DDD6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hi!+🌻;I+am+Arushi.;Welcome+to+my+GitHub!)
 
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
 💫 About Me:
 🔭 I’m currently a Second-Year B-Tech Student at VIT Bhopal.<br>🌱 Pursuing Computer Science Engineering<br>🧑‍💻 LinkedIn - https://www.linkedin.com/in/arushi-bakshi-015975330/<br>🤝 Let's Connect !
@@ -56,5 +54,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arushi28-hub&icon=9&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,100:8B5CF6&height=120&section=footer"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
