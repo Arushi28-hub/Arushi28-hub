@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&letterSpacing=0.15rem&duration=2200&pause=400&color=C77DFF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+🌻;I+am+Arushi.;Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=2400&pause=600&color=DDD6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hi!+🌻;I+am+Arushi.;Welcome+to+my+GitHub!)
+
+
+
 
 
 💫 About Me:
