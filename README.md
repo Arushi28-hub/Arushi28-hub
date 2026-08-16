@@ -122,6 +122,14 @@
 <img src="https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif" alt="Creative Animation" width="80" />
 
 <br/><br/>
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arushi28-hub/Arushi28-hub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arushi28-hub/Arushi28-hub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arushi28-hub/Arushi28-hub/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
 
 
 <br/>
