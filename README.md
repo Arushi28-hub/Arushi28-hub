@@ -1,10 +1,10 @@
 <div align="center">
 
-
+<!-- Hogwarts Header Image (Yellowish/Bluish Theme) -->
+<img src="https://github.com/Arushi28-hub/Arushi28-hub/blob/main/header_img.png" width="1000" alt="Hogwarts Castle Header" />
 
 <!-- Header Typing GIF -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=2400&pause=600&color=DDD6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hi!+🌻;I+am+Arushi.;Welcome+to+my+GitHub!)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=2400&pause=600&color=DDD6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hi!+;I+am+Arushi.;Welcome+to+my+GitHub!)
 </div>
 <div align="center">
 
