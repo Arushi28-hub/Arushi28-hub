@@ -10,16 +10,17 @@
 
 
 
-<!-- Gradient Divider Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+<!-- Gradient Divider Line (Blue & Yellow Hogwarts Theme) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055ff,100:ffd700&height=3" width="100%" />
 
 <br/>
 
 <!-- Quick Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-bakshi-015975330/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arushi28-hub)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushi.rs45@gmail.com)
-
+<!-- Quick Social Badges with GIF -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/arushi-bakshi-015975330/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arushi.rs45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN2MWpxM3BwNTVsOWxuZmZzeHBtMGdpYXFnb2toOW5oY2t4Y20wNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/deqLBeBDksfQpVJude/giphy.gif" height="55px" style="vertical-align: middle;" alt="Hedwig Owl" />
 </div>
 
 <br/>
@@ -136,7 +137,6 @@
 
 <br/><br/>
 
-<img src="https://cdn.pixabay.com/animation/2023/04/12/11/30/11-30-44-914_512.gif" alt="Creative Animation" width="80" />
 
 <br/><br/>
 <!-- Snake Contribution Animation -->
