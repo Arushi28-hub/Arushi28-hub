@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Hogwarts Header Image (Yellowish/Bluish Theme) -->
-<img src="https://github.com/Arushi28-hub/Arushi28-hub/blob/main/header_img.png" width="1000" alt="Hogwarts Castle Header" />
+
 
 <!-- Header Typing GIF -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=2400&pause=600&color=DDD6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hi!+;I+am+Arushi.;Welcome+to+my+GitHub!)
@@ -31,7 +30,7 @@
   <tr>
     <td width="65%" valign="top">
 
-## 💫 About Me
+## 💫 About Me 
 
 * 🔭 **Education:** Third-Year B.Tech Student at VIT Bhopal
 * 🌱 **Ask me about:** C++, Java, Python, JavaScript, HTML/CSS, MySQL, Data Structures & Algorithms
@@ -136,6 +135,8 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" style="max-width: 600px;" />
 
 <br/><br/>
+<!-- Hogwarts Header Image (Yellowish/Bluish Theme) -->
+<img src="https://github.com/Arushi28-hub/Arushi28-hub/blob/main/header_img.png" width="1000" alt="Hogwarts Castle Header" />
 
 
 <br/><br/>
