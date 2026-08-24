@@ -1,7 +1,14 @@
 <div align="center">
 
+
+
 <!-- Header Typing GIF -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&duration=2400&pause=600&color=DDD6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hi!+🌻;I+am+Arushi.;Welcome+to+my+GitHub!)
+
+</div>
+<div align="center">
+
+
 
 <!-- Gradient Divider Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
@@ -19,6 +26,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ## 💫 About Me
 
 * 🔭 **Education:** Third-Year B.Tech Student at VIT Bhopal
@@ -26,7 +37,13 @@
 * 🏆 **Certifications:** Cloud & Networking certified (OCI, Cisco, Postman)
 * 🛠️ **Campus Involvement:** Active in technical, entrepreneurship, and event organization clubs
 * ⚡ **Fun fact:** When I'm not writing code, you'll find me playing guitar, painting, or sketching
-* 🤝 **Let's Connect!**
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.craiyon.com/2025-04-17/N9B44RkwQzC1W82L2S_XiA.webp" width="100%" alt="Coding illustration">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,7 +86,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6cHc3dmoxcHliMTFxc3dpbnY2dDNibjRrNm9lbWNjZWRnMjJhdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XMasZzurdLwATHAS3N/giphy.gif" height="32px" align="center" alt="Golden Snitch">
 
 <table border="0" width="100%">
   <tr>
